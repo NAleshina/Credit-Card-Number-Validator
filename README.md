@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Test Suite
+* [Test Suite](https://drive.google.com/file/d/15A4d-6W_yc5BXhZ5uQvj1rlDNiCm134K/view?usp=sharing)
 * Описание найденых дефектов
 * Отчет о тестировании
 
